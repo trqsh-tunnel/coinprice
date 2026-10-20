@@ -9,7 +9,7 @@ python-dotenv==1.2.2
 
 # Async support utilities (aiogram ichki ishlatadi, prod barqarorlik uchun)
 # Pinned together: aiohttp 3.14.x needs yarl>=1.17 + propcache/frozenlist
-aiohttp==3.14.3
+aiohttp==3.14.4
 yarl==1.24.5
 multidict==6.7.1
 propcache==0.5.2
